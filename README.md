@@ -6,7 +6,7 @@ I have create this piece of code just to know if was viable. It is just a concep
 
 # How to use it?
 
-1. Open `chrome`, then visit `web.whatsapp.com`
+1. Open `chrome`, then visit `http://web.whatsapp.com`
 2. Press `F12`, click at `console`
 3. Copy all the `bot.js` code  and paste into console. Don't worry, you can trust me, I am a loveeeely person.
 
@@ -64,7 +64,7 @@ Yes, there are.
 
 1. Your friend can't send `@HELP` followed of any other message really fast. This Bot only reads the last message. It's a buggy (that can be fixed)
 
-Feel free to fix and PR it. I will probably not touch in this public repo anymore.
+Feel free to fix and PR it. I will probably not touch in this public repositary anymore.
 
 # -
 
